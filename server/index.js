@@ -6,7 +6,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-const GOOGLE_API_KEY = 'AIzaSyAm2_Lb5H8GT8u7mi2W0BWVMitr2jpGXRk';
+const GOOGLE_API_KEY = 'inbiaceibwubciuw'; // Chave de API do Google Cloud dentros das aspas
 
 const genAI = new GoogleGenerativeAI(GOOGLE_API_KEY);
 
