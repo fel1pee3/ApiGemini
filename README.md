@@ -2,6 +2,11 @@
 
 Este é um pequeno projeto que utiliza a API da Gemini para processar requisições e retornar respostas com base em prompts enviados pelo usuário.
 
+## Pré-visualização
+Confira uma prévia da aplicação:
+
+![Imagem da Aplicação](images/teste-aplicacao.png)
+
 ## Tecnologias Utilizadas
 - Node.js
 - Express.js
